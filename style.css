@@ -3,5 +3,20 @@ div
      background-color: dodgerblue;
      width: 100px;
      height: 400px;
+     padding: 20px;
+     margin: 20px;
+}
+
+h1
+{
      color: white;
+     font-family: cursive;
+     font-size: 50px;
+}
+
+h2
+{
+     color: white;
+     font-family: cursive;
+     font-size: 25px;
 }
